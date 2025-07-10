@@ -152,13 +152,7 @@ Open your browser and go to [http://localhost:8501](http://localhost:8501)
 
 ---
 
-## 📌 Notes
 
-* The `/data` and `/db` folders are excluded from Git tracking for size and privacy.
-* You can modify or extend the analysis using the `insights_visualization.ipynb` notebook.
-* All queries are optimized for the fixed database schema. Do not rename columns or tables unless updating scripts accordingly.
-
----
 
 ## 🧠 Contributions & Ideas
 
@@ -171,10 +165,3 @@ Feature suggestions or pull requests are welcome. Some potential improvements:
 
 ---
 
-## 👨‍💻 Author
-
-**Pratik Choudhuri**
-📧 Feel free to connect or mention if you build on this.
-[Contact Me](https://thehypein.netlify.app/)
-
----
